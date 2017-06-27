@@ -3,4 +3,10 @@
 font-family: Roboto Condensed, Times New Roman, serif;
 font-size: 18px;
 text-decoration: underline;
+font-weight: Bold;
+}
+
+.Border {
+  
+  border: 5px solid blue;
 }
