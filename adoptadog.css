@@ -7,7 +7,7 @@ font-weight: Bold;
 }
 
 .Border {
-  width: 100px;
+  width: 10px;
   border: 1px solid blue;
   padding-left: 7px;
 }
