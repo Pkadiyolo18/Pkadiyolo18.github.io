@@ -19,4 +19,6 @@ font-weight: Bold;
 
 h1 {
   background-image: url(http://www.stonemountainpetproducts.com/products/kennel/boarding_suites/images/express_kennel_open.jpg);
+  background-size: 1000px 600px;
+  background-repeat: no-repeat;
 }
