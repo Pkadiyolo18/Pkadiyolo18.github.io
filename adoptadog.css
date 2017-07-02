@@ -26,6 +26,6 @@ h1 {
   font-size: 50px;
   color: #fff;
   display:block;
-  background-size: cover;
+  background-size: contain;
   
 }
