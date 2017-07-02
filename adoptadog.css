@@ -27,4 +27,5 @@ h1 {
   position: absolute;
   top: 100px;
   left: 100px;
+  display:block;
 }
