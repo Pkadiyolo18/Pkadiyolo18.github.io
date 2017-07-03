@@ -50,6 +50,7 @@ text-align: center;
 }
 
 .Link {
+  text-align: center;
   height: 50px;
   width: 100px;
   background-image: -webkit-linear-gradient(#ff2100, #ff00d8);
