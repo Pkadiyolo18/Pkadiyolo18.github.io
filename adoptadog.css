@@ -57,3 +57,8 @@ text-align: center;
   border: 2px solid black;
   display: block;
 }
+
+.background {
+  
+  background-image: url("http://motoki-y.sakura.ne.jp/kabegami/252/d.gif");
+}
