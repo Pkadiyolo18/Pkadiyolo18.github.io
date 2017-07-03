@@ -54,6 +54,6 @@ text-align: center;
   height: 50px;
   width: 100px;
   background-image: -webkit-linear-gradient(#ff2100, #ff00d8);
-  border: 5px solid black;
+  border: 2px solid black;
   display: block;
 }
