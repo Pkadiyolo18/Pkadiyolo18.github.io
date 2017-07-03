@@ -10,7 +10,7 @@ font-weight: Bold;
   width: 600px;
   border: 1px solid blue;
   padding-left: 7px;
-  background-color: white;
+ 
   
 }
 
@@ -62,4 +62,9 @@ text-align: center;
 .Background {
   
   background-image: url("http://motoki-y.sakura.ne.jp/kabegami/252/d.gif");
+}
+.Description {
+  
+  font-size: 16px;
+  font-family: Indie Flower, serif;
 }
