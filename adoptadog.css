@@ -51,8 +51,8 @@ text-align: center;
 
 .Link {
   padding: 15px 10px 15px 10px;
-  height: 40px;
-  width: 100px;
+  height: 30px;
+  width: 150px;
   background-image: -webkit-linear-gradient(#ff2100, #ff00d8);
   border: 2px solid black;
   display: block;
