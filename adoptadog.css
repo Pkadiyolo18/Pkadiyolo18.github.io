@@ -51,5 +51,6 @@ text-align: center;
 
 .Link {
   
-  background: -webkit-linear-gradient(left,red,orange,yellow,green,blue,indigo,violet);
+  background-color: -webkit-linear-gradient(#ff2100, #ff00d8);
+  
 }
