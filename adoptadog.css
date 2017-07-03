@@ -52,5 +52,5 @@ text-align: center;
 .Link {
   
   background-color: -webkit-linear-gradient(#ff2100, #ff00d8);
-  
+  border: 5px solid black;
 }
